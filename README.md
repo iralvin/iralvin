@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a pharmacist-turned-software engineer having just completed a 10-month full stack web developer bootcamp and am seeking career opportunities. I have developed several web apps using ReactJS & NodeJS and several Android apps that have been released on the Google Play Store. Additionally, I co-developed an original 8-player game for Windows OS. Confident in MERN stack and other languages such as Java and C#. 
+
 <!--
 **iralvin/iralvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
