@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img alt="visual studio code"  src="https://img.icons8.com/fluent/32/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
-<img alt="javascript" " src="https://img.icons8.com/color/32/000000/javascript.png" />
+<img alt="javascript" src="https://img.icons8.com/color/32/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
 <img alt="react"  src="https://img.icons8.com/color/32/000000/react-native.png" />
