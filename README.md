@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)
 [<code>
+<img alt="c#" src="https://img.icons8.com/color/32/000000/c-sharp-logo.png"/>
+</code>](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<code>
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
 [<code>
