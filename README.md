@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a pharmacist-turned-software engineer having just completed a 10-month full stack web developer bootcamp and am seeking career opportunities. I have developed several web apps using ReactJS & NodeJS and several Android apps that have been released on the Google Play Store. Additionally, I co-developed an original 8-player game for Windows OS. Confident in MERN stack and other languages such as Java and C#. 
+I am a pharmacist-turned-software engineer seeking new career opportunities. Confident in Javascript, ReactJS, Typescript, NodeJS, PostgreSQL and other languages such as Java and C#. I am a self-starter who enjoys learning and utilizing new technologies & libraries. Currently working as a junior software developer at Expression Networks developing the NETCCN platform. 
 
 <!--
 **iralvin/iralvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
