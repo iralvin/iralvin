@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a pharmacist-turned-software engineer seeking new career opportunities. Confident in Javascript, ReactJS, Typescript, NodeJS, PostgreSQL and other languages such as Java and C#. I am a self-starter who enjoys learning and utilizing new technologies & libraries. Currently working as a junior software developer at Expression Networks developing the NETCCN platform. 
+I am a pharmacist-turned-software engineer. Confident in Javascript, ReactJS, Typescript, NodeJS, PostgreSQL and other languages such as Java and C#. I am a self-starter who enjoys learning and utilizing new technologies & libraries. Currently working as a junior software developer at Expression Networks developing the NETCCN platform. 
 
 <!--
 **iralvin/iralvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
